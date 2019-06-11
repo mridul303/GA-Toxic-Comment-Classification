@@ -6,8 +6,4 @@ The code was run on Annaconda virtual environment.
 Following things are required before running this code:
 1. Basic understanding of GA and Classifier Chains
 2. Dataset : https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
-3. API's
-  i. NLTK
-  ii. SKLEARN
-  iii. Pandas
-  iv. pickle
+3. API's : NLTK, SKLEARN, Pandas, pickle
